@@ -43,7 +43,8 @@
 
 ### 📫 How to Reach Me  
 - 📧 Email: [202380330@psu.palawan.edu.ph](mailto:202380330@psu.palawan.edu.ph)
+- 📧 Portfolio: https://github.com/ArbitErDL001/portfolio
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
+# ⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
