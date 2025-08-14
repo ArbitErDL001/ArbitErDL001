@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **ArbitErDL**
 
-🚀 **Student Development Engineer** | 💻 HTML • Python • C#
+🚀 **Student Development Engineer** | 💻 HTML • CSS • C# • Python
 
 ---
 
