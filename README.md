@@ -12,7 +12,7 @@
 ---
 
 ### 📌 About Me  
-- 🏗️ I build **efficient**, **scalable**, and **maintainable** software solutions  
+- 🏗️ I build **efficient**, **scalable**, and **maintainable** software solutions (Most of the time, No.) 
 - 💡 Passionate about solving real-world problems through code  
 - 📚 Always learning new frameworks and best practices  
 - 🎯 Focused on writing **clean**, **readable**, and **reusable** code  
