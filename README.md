@@ -1,5 +1,4 @@
-<!-- 👋 Hi, I'm ArbitErDL -->
-<div style="border: 2px solid #00ffff; border-radius: 10px; box-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; padding: 20px; background-color: #0d1117; color: #ffffff;">
+<div style="border: 2px solid #00ffff; border-radius: 12px; box-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; padding: 25px; background-color: #0d1117; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
 
 <h1>👋 Hi, I'm <strong>ArbitErDL</strong></h1>
 <p>🚀 <strong>Student Development Engineer</strong> | 💻 HTML • CSS • C# • Python</p>
@@ -18,10 +17,22 @@
   </thead>
   <tbody>
     <tr>
-      <td>![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)</td>
-      <td>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</td>
-      <td>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)</td>
-      <td>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+      </td>
     </tr>
   </tbody>
 </table>
