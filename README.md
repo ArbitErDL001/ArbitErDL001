@@ -48,7 +48,17 @@
 </ul>
 
 <hr>
+<hr>
 
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArbitErDL001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitErDL001&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<hr>
 <h2>🗺️ The User's Journey</h2>
 <blockquote>
 <p>I’m a curious computer science student with a passion for shaping the future of technology. I want to explore not just the innovations themselves, but also the pros and cons of what happens when technology advances and intertwines with human society.</p>
