@@ -57,17 +57,6 @@
 <p>And now I’m on a journey of learning—diving into code, solving bugs, and occasionally questioning my life choices at 3 AM while staring at an error that was just a missing semicolon. I’m building skills, breaking code (sometimes on purpose), and shaping my mind to one day shape the world… or at least get my programs to run without Googling the error message every five minutes.</p>
 </blockquote>
 
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArbitErDL001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitErDL001&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<hr>
 
 <h2>📫 How to Reach Me</h2>
 <ul>
