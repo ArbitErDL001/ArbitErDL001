@@ -1,82 +1,193 @@
-<div style="border: 2px solid #00ffff; border-radius: 12px; box-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; padding: 25px; background-color: #0d1117; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
+<div align="center">
 
-<h1>👋 Hi, I'm <strong>ArbitErDL</strong></h1>
-<p>🚀 <strong>Student Development Engineer</strong> | 💻 HTML • CSS • C# • Python</p>
+# 👋 Hi, I'm **ΛΞDL**
 
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Python+•+C%23+•+HTML+•+CSS;Always+Learning+Something+New!" />
 
-<h2>🛠️ Tech Stack</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Databases</th>
-      <th>Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
-
-<h2>📌 About Me</h2>
-<ul>
-  <li>🏗️ I build <strong>efficient</strong>, <strong>scalable</strong>, and <strong>maintainable</strong> software solutions (Most of the time, No.)</li>
-  <li>💡 Passionate about solving real-world problems through code</li>
-  <li>📚 Always learning new frameworks and best practices</li>
-  <li>🎯 Focused on writing <strong>clean</strong>, <strong>readable</strong>, and <strong>reusable</strong> code</li>
-</ul>
-
-<hr>
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArbitErDL001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitErDL001&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=ArbitErDL001&label=Profile+Views&color=00ffff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ArbitErDL001?style=for-the-badge&color=00ffff&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/ArbitErDL001?style=for-the-badge&color=00ffff&labelColor=0D1117"/>
 </p>
 
-<hr>
-<h2>🗺️ The User's Journey</h2>
-<blockquote>
-<p>I’m a curious computer science student with a passion for shaping the future of technology. I want to explore not just the innovations themselves, but also the pros and cons of what happens when technology advances and intertwines with human society.</p>
-<p>My journey into this field started early. As a kid, I dreamed of transforming from a weak and ordinary person into someone extraordinary—someone who left a meaningful mark on the world. But as I grew up, reality hit me hard… harder than my laptop fan during a Python infinite loop.</p>
-<p>I realized that life doesn’t always go as planned. And that’s okay. I don’t need to impress or prove myself to others—what matters is proving to myself that I’m becoming the best version of me.</p>
-<p>And now I’m on a journey of learning—diving into code, solving bugs, and occasionally questioning my life choices at 3 AM while staring at an error that was just a missing semicolon. I’m building skills, breaking code (sometimes on purpose), and shaping my mind to one day shape the world… or at least get my programs to run without Googling the error message every five minutes.</p>
-</blockquote>
-
-
-<h2>📫 How to Reach Me</h2>
-<ul>
-  <li>📧 Email: <a href="mailto:202380330@psu.palawan.edu.ph">202380330@psu.palawan.edu.ph</a></li>
-  <li>🌐 Portfolio: <a href="https://github.com/ArbitErDL001/portfolio">GitHub Portfolio</a></li>
-</ul>
-
-<hr>
-
-<h2>⭐ Favorite Quote</h2>
-<blockquote><em>"Code is like humor. When you have to explain it, it’s bad."</em></blockquote>
+*"Learning today. Building tomorrow."*
 
 </div>
+
+---
+
+# 💫 About Me
+
+I'm a Computer Science student who enjoys building software, learning new technologies, and exploring how technology shapes the future.
+
+I believe programming isn't just about writing code—it's about solving problems, improving ideas, and creating experiences that make people's lives easier.
+
+Currently I'm focusing on:
+
+- 🌱 Learning Software Engineering
+- 🐍 Python Development
+- 🎮 Unreal Engine 5
+- 🌐 Web Development
+- 💻 Object-Oriented Programming
+- 📚 Writing cleaner and more maintainable code
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+- Django
+- REST APIs
+- Software Engineering
+- Git Workflow
+- Unreal Engine 5
+- Data Structures & Algorithms
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💰 MoneyLens | Personal Finance Website |
+| 🎮 Senze | Psychological Survival Game |
+| 🌐 Portfolio | Personal Portfolio Website |
+| 🐍 Python Projects | Small projects while learning Python |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArbitErDL001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitErDL001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ArbitErDL001&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArbitErDL001&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArbitErDL001&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🧭 My Journey
+
+> I started programming with curiosity and a desire to create something meaningful.
+>
+> As I learned more, I realized software development isn't only about writing code—it's about solving problems, thinking creatively, and continuously improving.
+>
+> Every bug teaches patience.
+>
+> Every project builds experience.
+>
+> Every challenge becomes another opportunity to grow.
+>
+> My goal isn't simply to become a software engineer, but to create technology that has a positive impact on people's lives.
+>
+> There's still a long road ahead, but every line of code brings me one step closer.
+
+---
+
+# 🎯 Goals
+
+- ✅ Become a Software Engineer
+- ✅ Build impactful projects
+- ✅ Master Python
+- ✅ Learn Full Stack Development
+- ✅ Explore Artificial Intelligence
+- ✅ Contribute to Open Source
+- ✅ Keep Learning Every Day
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+📧 **Email**  
+202380330@psu.palawan.edu.ph
+
+🌐 **Portfolio**  
+https://github.com/ArbitErDL001/portfolio
+
+</p>
+
+---
+
+# 💭 Favorite Quote
+
+> **"Code is like humor. When you have to explain it, it's bad."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Great software isn't built in a day. It's built one commit at a time."*
+
+</div>
+
+<!-- Snake Contribution Animation -->
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ArbitErDL001/ArbitErDL001/output/github-contribution-grid-snake.svg"/>
+
+</p>
