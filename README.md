@@ -116,16 +116,6 @@ Currently I'm focusing on:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArbitErDL001&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🧭 My Journey
 
 > I started programming with curiosity and a desire to create something meaningful.
@@ -183,11 +173,3 @@ https://github.com/ArbitErDL001/portfolio
 *"Great software isn't built in a day. It's built one commit at a time."*
 
 </div>
-
-<!-- Snake Contribution Animation -->
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ArbitErDL001/ArbitErDL001/output/github-contribution-grid-snake.svg"/>
-
-</p>
