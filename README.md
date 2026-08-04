@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm **ΛΞDL**
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,50:7F00FF,100:FF0080&text=%CE%9B%CE%9EDL&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=45"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Python+•+C%23+•+HTML+•+CSS;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Future+Software+Engineer;Game+Developer+%7C+UE5+%7C+Blender;Always+Building+Something+New"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ArbitErDL001&label=Profile+Views&color=00ffff&style=for-the-badge"/>
@@ -35,6 +37,10 @@ Currently I'm focusing on:
 ---
 
 # 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,python,cs,mysql,git,github,vscode,visualstudio,blender,unreal&theme=dark"/>
+</p>
 
 ## Frontend
 
