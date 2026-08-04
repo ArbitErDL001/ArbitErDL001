@@ -30,6 +30,7 @@ Currently I'm focusing on:
 - 🌐 Web Development
 - 💻 Object-Oriented Programming
 - 📚 Writing cleaner and more maintainable code
+- 🧊 Blender
 
 ---
 
