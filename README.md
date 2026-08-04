@@ -87,7 +87,7 @@ Currently I'm focusing on:
 |----------|-------------|
 | 💰 MoneyLens | Personal Finance Website |
 | 🎮 Senze | Psychological Survival Game(Coming Soon) |
-| 🎮 Remnant of Light | Psychological Survival Game(Coming Soon) |
+| 🎮 Remnant of Light | Psychological Horror Game(Coming Soon) |
 | 🌐 Portfolio | Personal Portfolio Website |
 | 🐍 Python Projects | Small projects while learning Python |
 
