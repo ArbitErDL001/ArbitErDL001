@@ -156,9 +156,6 @@ Currently I'm focusing on:
 📧 **Email**  
 202380330@psu.palawan.edu.ph
 
-🌐 **Portfolio**  
-https://github.com/ArbitErDL001/portfolio
-
 </p>
 
 ---
