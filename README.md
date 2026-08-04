@@ -62,6 +62,8 @@ Currently I'm focusing on:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
 ---
@@ -74,6 +76,7 @@ Currently I'm focusing on:
 - Git Workflow
 - Unreal Engine 5
 - Data Structures & Algorithms
+- 3d Modeling
 
 ---
 
@@ -82,7 +85,8 @@ Currently I'm focusing on:
 | Project | Description |
 |----------|-------------|
 | 💰 MoneyLens | Personal Finance Website |
-| 🎮 Senze | Psychological Survival Game |
+| 🎮 Senze | Psychological Survival Game(Coming Soon) |
+| 🎮 Remnant of Light | Psychological Survival Game(Coming Soon) |
 | 🌐 Portfolio | Personal Portfolio Website |
 | 🐍 Python Projects | Small projects while learning Python |
 
